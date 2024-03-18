@@ -1,0 +1,12 @@
+{
+  "name": "wecs-clock",
+  "version": "1.0.0",
+  "description": "A simple Node.js app to display time in hours and wecs format",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": ["Node.js", "time", "wecs", "clock", "real-time"],
+  "author": "xenzi",
+  "license": "MIT"
+}
